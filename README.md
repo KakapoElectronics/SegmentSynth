@@ -1,3 +1,4 @@
 ### THIS IS SEGMENTSYNTH OFFICIAL PUBLIC REPOSITORY ###
 
-* we will add all code upon it will be finalized
+After all of the funding is complete, we will publicly release all the software sources.
+In the meantime, follow us on twitter: https://twitter.com/SegmentSynth
